@@ -20,14 +20,6 @@
 ### Hard Skills Secundárias
 <div style="display: inline-block"><br/>
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />  
 </div>
 
-### Soft Skills que possuo
-
-* Trabalho em equipe
-* Aprendizagem rapida
-* Constante aprendizado
-* Resolução de problemas
-* Gerenciamento de equipes
