@@ -1,6 +1,6 @@
 ### Olá ! eu sou o Gabriel Rodrigues ! 🤙
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-rodrigues-9b61a4234)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/gabriel-rodrigues-9b61a4234)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielProjec&show_icons=true&theme=dracula)
 
